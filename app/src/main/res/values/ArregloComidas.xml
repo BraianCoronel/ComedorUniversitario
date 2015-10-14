@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+   <string-array name="food_type_array">
+       <item>Fideos</item>
+       <item>Guiso de arroz</item>
+       <item>Pastel de carne</item>
+       <item>Pizza</item>
+   </string-array>
+
+    <string-array name="dessert_type_array">
+        <item>Flan con crema y caramelo</item>
+        <item>Gelatina</item>
+        <item>Helado</item>
+        <item>Dulce de batata con queso</item>
+    </string-array>
+
+    <string-array name="food_nutritional_information">
+        <item>Fideos: En 100g 138 calorías</item>
+        <item>Guiso: En 100g 150 calorías</item>
+        <item>Pastel: En 100g 231 calorías</item>
+        <item>Pizza: En 100g 266 calorías</item>
+    </string-array>
+
+    <string-array name="dessert_nutritional_information">
+        <item>Flan: En 100g 146 calorías</item>
+        <item>Gelatina: En 100g 62 calorías</item>
+        <item>Helado: En 100g 207 calorías</item>
+        <item>Batata y queso: En 100g 300 calorías</item>
+    </string-array>
+    
+</resources>
